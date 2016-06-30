@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: c63a4f3aaeb939acdbba010f553fbff480869769
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.jackie.service'
+team-id='T1KHULA3E'
+name='rest-microservice'
+template='treehorn-spring-rest-microservice'
+user-id='U1MEK88CC'
+group_id='com.jackie.service'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='rest-microservice'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='30 06 2016 '
+configuration_class_name='RestMicroserviceConfiguration'
+package_path='com/jackie/service'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='RestMicroserviceOutOfContainerIntegrationTests'
+application_name='RestMicroservice'
+application_class_name='RestMicroserviceApplication'
+startup_test_name='RestMicroserviceApplicationTests'
+web_integration_test_name='RestMicroserviceWebIntegrationTests'
+creation_date='Thu Jun 30 2016 08:31:53 GMT+0000 (UTC)'
